@@ -1,8 +1,12 @@
 # Go Kafka Sample Producer
 
+Just a simple project to test some kafka features. Produce a message for any random topic 
+
+
 ### used frameworks
-(1 Gonic) [https://github.com/gin-gonic/gin]
-(2 franz go) [https://github.com/twmb/franz-go]
+[1 Gonic] (https://github.com/gin-gonic/gin)
+
+[2 franz go] (https://github.com/twmb/franz-go)
 
 ### how to use
 
