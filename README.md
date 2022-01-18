@@ -1,8 +1,8 @@
 # Go Kafka Sample Producer
 
 ### used frameworks
-[1 Gonic] (https://github.com/gin-gonic/gin)
-[1 franz go] (https://github.com/twmb/franz-go)
+(1 Gonic) [https://github.com/gin-gonic/gin]
+(2 franz go) [https://github.com/twmb/franz-go]
 
 ### how to use
 
